@@ -6,7 +6,8 @@ namespace Conta_Bancaria
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Entre o número da conta:");
+            
         }
     }
 }
